@@ -1,0 +1,16 @@
+question_id,category,question,option_a,option_b,option_c,option_d,correct_option
+Q001,Python,Which keyword defines a function?,func,def,function,define,B
+Q002,Python,Which data type stores unique values?,List,Tuple,Set,String,C
+Q003,Python,Which symbol starts a comment in Python?,//,#,/*,--,B
+Q004,DSA,Which data structure follows FIFO?,Stack,Queue,Tree,Graph,B
+Q005,DSA,Which data structure follows LIFO?,Queue,Array,Stack,Linked List,C
+Q006,DSA,Binary search requires which condition?,Random data,Sorted data,Duplicate data,Empty data,B
+Q007,Python,Which keyword is used for a loop?,repeat,loop,for,iterate,C
+Q008,Computer,What is the brain of a computer?,RAM,CPU,SSD,Monitor,B
+Q009,DSA,Which structure connects nodes using links?,Linked List,Integer,String,Float,A
+Q010,Computer,Which one is an input device?,Monitor,Speaker,Keyboard,Projector,C
+Q011,Python,Which method adds an item to a list?,append(),insertEnd(),pushBack(),attach(),A
+Q012,DSA,Which algorithm repeatedly swaps adjacent elements?,Binary Search,Bubble Sort,DFS,Merge Search,B
+Q013,Computer,What does RAM primarily provide?,Permanent storage,Temporary working memory,Printing,Internet access,B
+Q014,Python,Which file mode is used to append data?,r,w,a,x,C
+Q015,DSA,Which structure is commonly used for BFS?,Queue,Stack only,Heap only,Variable,A

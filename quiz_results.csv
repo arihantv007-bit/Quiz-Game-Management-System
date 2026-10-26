@@ -1,0 +1,6 @@
+result_id,student_id,name,category,score,total_questions,percentage,date,time
+RES001,STU001,Demo Student,Python,4,5,80.0,2026-10-25,10:30:00
+RES002,STU002,Aarav Sharma,DSA,5,5,100.0,2026-10-25,11:00:00
+RES003,STU003,Ananya Verma,Python,3,5,60.0,2026-10-25,11:30:00
+RES004,STU004,Rahul Kumar,Mixed,2,5,40.0,2026-10-26,09:30:00
+RES005,STU005,Priya Singh,DSA,4,5,80.0,2026-10-26,10:00:00
